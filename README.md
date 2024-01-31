@@ -1,7 +1,5 @@
 # Robot Path Planning Algorithms
 
-[Include badges or shields here, e.g., Build Status, License, etc.]
-
 Implementation and evaluation of search algorithms for mobile robot path planning in a 2D environment. This repository includes Breadth-First Search (BFS), Depth-First Search (DFS), Uniform Cost Search (UCS), and A* Search algorithms, implemented under both 'tree search' and 'graph search' paradigms.
 
 ## Table of Contents
