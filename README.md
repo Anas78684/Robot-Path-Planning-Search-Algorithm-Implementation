@@ -81,4 +81,4 @@ Contributions are welcome! Fork the repository, create a branch, make your chang
 
 ## License
 
-This project is licensed under the [GENERAL PUBLIC LICENSE] - see the (LICENSE.md) file for details.
+This project is licensed under the [GENERAL PUBLIC LICENSE] - see the [LICENSE.md](LICENSE) file for details.
